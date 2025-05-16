@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Postdoc at <a href='https://www.caltech.edu/'>Caltech</a>
 
 profile:
   align: right
