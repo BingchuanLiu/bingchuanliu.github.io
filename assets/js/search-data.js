@@ -440,6 +440,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "news-a-long-announcement-with-details",
+          title: 'A long announcement with details',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2/";
             },},{id: "news-i-will-be-presenting-my-poster-at-the-bridge-stim-workshop-at-the-university-of-pittsburg-on-may-19-20-sparkles-smile",
           title: 'I will be presenting my poster at the BRIDGE-STIM Workshop at the University...',
           description: "",
