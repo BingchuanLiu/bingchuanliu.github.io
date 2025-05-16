@@ -24,6 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a postdoc scholar in Biology and Biological Engineering at California Institute of Technology (Caltech), where I have been fortunate to be advised by Prof. Richard Andersen. I received my Ph.D. in Biomedical Engineering from Tsinghua University, graduating with honors. 
+I'm a currently postdoc scholar in Biology and Biological Engineering at California Institute of Technology (Caltech), where I have been fortunate to be advised by Prof. Richard Andersen. I received my Ph.D. in Biomedical Engineering from Tsinghua University, graduating with honors. 
 
+My research interests lie in Brain-Computer Interfaces (BCIs), both invasive and non-invasive BCIs. My goal is to develop next-generation BCI technologies that can reaaly improve the quality of life for those individuals in need, and also advancing our understanding of fundamental human neuroscience through BCI systems.
 
