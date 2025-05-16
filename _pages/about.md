@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a postdoc scholar in biology and biological engineering at California Institute of Technology (Caltech), where I have been fortunate to be advised by Prof. Richard Andersen. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a postdoc scholar in Biology and Biological Engineering at California Institute of Technology (Caltech), where I have been fortunate to be advised by Prof. Richard Andersen. I received my Ph.D. in Biomedical Engineering from Tsinghua University, graduating with honors. 
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
