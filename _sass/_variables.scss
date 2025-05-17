@@ -32,10 +32,6 @@ $grey-900: #212529;
 $white-color: #ffffff !default;
 $black-color: #000000 !default;
 
-$caltech-yellow: #f2a900;
-$link-color: $caltech-yellow !default;
-$link-hover-color: color.adjust($caltech-yellow, $lightness: -10%) !default;
-
 // Theme colors
 
 $code-bg-color-light: rgba($purple-color, 0.05);
@@ -54,3 +50,7 @@ $back-to-top-right: 30px;
 $back-to-top-diameter: 40px;
 $back-to-top-height: $back-to-top-diameter;
 $back-to-top-width: $back-to-top-diameter;
+
+$link-color: #efcc00 !default;                  // A readable yellow
+$link-hover-color: #d4b000 !default;            // Slightly darker on hover
+
