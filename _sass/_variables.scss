@@ -32,6 +32,10 @@ $grey-900: #212529;
 $white-color: #ffffff !default;
 $black-color: #000000 !default;
 
+$caltech-yellow: #f2a900;
+$link-color: $caltech-yellow !default;
+$link-hover-color: color.adjust($caltech-yellow, $lightness: -10%) !default;
+
 // Theme colors
 
 $code-bg-color-light: rgba($purple-color, 0.05);
