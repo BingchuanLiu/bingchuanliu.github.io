@@ -41,12 +41,7 @@ ninja.data = [{
       },{id: "news-i-will-be-presenting-my-poster-at-the-bridge-stim-workshop-at-the-university-of-pittsburg-on-may-19-20-sparkles-smile",
           title: 'I will be presenting my poster at the BRIDGE-STIM Workshop at the University...',
           description: "",
-          section: "News",},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
+          section: "News",},{id: "projects-project-6",
           title: 'project 6',
           description: "a project with no image",
           section: "Projects",handler: () => {
