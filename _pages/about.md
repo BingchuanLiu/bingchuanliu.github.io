@@ -26,5 +26,4 @@ latest_posts:
 
 I'm currently a postdoc scholar in Biology and Biological Engineering at California Institute of Technology (Caltech), where I have been fortunate to be advised by Prof. Richard Andersen. I received my Ph.D. in Biomedical Engineering from Tsinghua University, graduating with honors. 
 
-My research interests lie in Brain-Computer Interfaces (BCIs), both invasive and non-invasive BCIs. My goal is to develop next-generation BCI technologies that can really improve the quality of life for those individuals in need, and also advancing our understanding of fundamental neuroscience for humanity through BCI systems.
-
+My research goal is to improve the quality of life for those individuals with neurological disorders. I serve as a peer reviewer for several journals, including IEEE Transactions on Biomedical Engineering, IEEE Transactions on Neural Systems and Rehabilitation Engineering, IEEE Journal of Biomedical and Health Informatics, Journal of Neural Engineering, Frontiers in Neuroscience, Neural Networks, Pattern Recognition, Knowledge-Based Systems, iScience, Scientific Reports, Cyborg and Bionic Systems, Brain Science Advances, and the International Journal of Human-Computer Interaction.
