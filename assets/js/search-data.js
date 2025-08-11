@@ -19,6 +19,9 @@ ninja.data = [{
         },{id: "news-i-will-be-presenting-my-poster-at-the-bridge-stim-workshop-at-the-university-of-pittsburg-on-may-19-20-sparkles-smile",
           title: 'I will be presenting my poster at the BRIDGE-STIM Workshop at the University...',
           description: "",
+          section: "News",},{id: "news-our-review-article-on-brain-computer-interface-a-brain-in-the-loop-communication-system-is-accepted-by-proceeding-of-the-ieee",
+          title: 'Our Review article on Brain-Computer Interface – A Brain-in-the-Loop Communication System is accepted...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
