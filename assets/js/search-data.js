@@ -23,7 +23,7 @@ ninja.data = [{
           title: 'Our Review article on Brain-Computer Interface – A Brain-in-the-Loop Communication System is accepted...',
           description: "",
           section: "News",},{id: "news-the-beta-dataset-has-now-been-uploaded-to-hugging-face",
-          title: 'The BETA dataset has now been uploaded to Hugging Face',
+          title: 'The BETA dataset has now been uploaded to Hugging Face.',
           description: "",
           section: "News",},{
         id: 'social-email',
