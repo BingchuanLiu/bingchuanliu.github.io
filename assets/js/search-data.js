@@ -22,8 +22,8 @@ ninja.data = [{
           section: "News",},{id: "news-our-review-article-on-brain-computer-interface-a-brain-in-the-loop-communication-system-is-accepted-by-proceedings-of-the-ieee",
           title: 'Our Review article on Brain-Computer Interface – A Brain-in-the-Loop Communication System is accepted...',
           description: "",
-          section: "News",},{id: "news-the-beta-dataset-has-now-been-uploaded-to-hugging-face-https-huggingface-co-datasets-bingchuan-beta-tree-main",
-          title: 'The BETA dataset has now been uploaded to Hugging Face: https://huggingface.co/datasets/Bingchuan/BETA/tree/main',
+          section: "News",},{id: "news-the-beta-dataset-has-now-been-uploaded-to-hugging-face",
+          title: 'The BETA dataset has now been uploaded to Hugging Face',
           description: "",
           section: "News",},{
         id: 'social-email',
