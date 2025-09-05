@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The BETA dataset has now been uploaded to [Hugging Face](https://huggingface.co/datasets/Bingchuan/BETA/tree/main)
+The BETA dataset has now been uploaded to [Hugging Face](https://huggingface.co/datasets/Bingchuan/BETA/tree/main).
