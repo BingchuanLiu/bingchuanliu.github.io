@@ -33,18 +33,18 @@ ninja.data = [{
           window.open("mailto:%62%63%6C%69%75@%63%61%6C%74%65%63%68.%65%64%75", "_blank");
         },
       },{
-        id: 'social-orcid',
-        title: 'ORCID',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://orcid.org/0000-0001-5988-6051", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=wHqApuMAAAAJ&hl", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0000-0001-5988-6051", "_blank");
         },
       },{
         id: 'social-x',
