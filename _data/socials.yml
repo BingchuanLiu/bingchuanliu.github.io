@@ -23,7 +23,6 @@ email: bcliu@caltech.edu # your email address
 # linkedin_username: # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
-orcid_id: 0000-0001-5988-6051
 # osf_id: # your OSF ID
 # pinterest_id: # your pinterest id
 # publons_id: # your ID on Publons
@@ -31,6 +30,7 @@ orcid_id: 0000-0001-5988-6051
 # research_gate_profile: # your profile on ResearchGate
 # rss_icon: true # set to true to show the RSS icon
 scholar_userid: wHqApuMAAAAJ&hl # your Google Scholar ID
+orcid_id: 0000-0001-5988-6051
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
