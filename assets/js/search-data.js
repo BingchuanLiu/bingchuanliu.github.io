@@ -25,6 +25,9 @@ ninja.data = [{
           section: "News",},{id: "news-the-beta-dataset-has-now-been-uploaded-to-hugging-face",
           title: 'The BETA dataset has now been uploaded to Hugging Face.',
           description: "",
+          section: "News",},{id: "news-i-will-be-presenting-my-poster-at-the-human-single-neuron-meeting-on-november-13-14-at-caltech-and-at-sfn-on-november-15-19-in-san-diego",
+          title: 'I will be presenting my poster at the Human Single-Neuron Meeting on November...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
