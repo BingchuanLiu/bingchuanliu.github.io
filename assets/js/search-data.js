@@ -28,9 +28,6 @@ ninja.data = [{
           section: "News",},{id: "news-i-will-be-presenting-my-poster-at-the-human-single-neuron-meeting-on-november-13-14-at-caltech-and-at-sfn-on-november-15-19-in-san-diego",
           title: 'I will be presenting my poster at the Human Single-Neuron Meeting on November...',
           description: "",
-          section: "News",},{id: "news-i-will-give-a-talk-on-july-6-at-caltech-and-on-july-30-at-stanford",
-          title: 'I will give a talk on July 6 at Caltech, and on July...',
-          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
